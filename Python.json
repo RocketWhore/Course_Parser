@@ -1,0 +1,802 @@
+[
+    {
+        "id": "80323297",
+        "url": "https://api.hh.ru/vacancies/80323297?host=hh.ru",
+        "salary_from": 800000,
+        "salary_to": null,
+        "employer": "Вотчит.Ру",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79681180",
+        "url": "https://api.hh.ru/vacancies/79681180?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 60000,
+        "employer": "Рекруто",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80383928",
+        "url": "https://api.hh.ru/vacancies/80383928?host=hh.ru",
+        "salary_from": 35100000,
+        "salary_to": 46020000,
+        "employer": "ProMebel, ТМ (ТОО IDIA Market)",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79935496",
+        "url": "https://api.hh.ru/vacancies/79935496?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": 120000,
+        "employer": "Суши-тайм",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79971388",
+        "url": "https://api.hh.ru/vacancies/79971388?host=hh.ru",
+        "salary_from": 400000,
+        "salary_to": null,
+        "employer": "Фаст Софт",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80235889",
+        "url": "https://api.hh.ru/vacancies/80235889?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "employer": "Студия Сайтов",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79742922",
+        "url": "https://api.hh.ru/vacancies/79742922?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 250000,
+        "employer": "Kvando Technologies",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80345267",
+        "url": "https://api.hh.ru/vacancies/80345267?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "IBS",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80309367",
+        "url": "https://api.hh.ru/vacancies/80309367?host=hh.ru",
+        "salary_from": 40000,
+        "salary_to": 60000,
+        "employer": "RTM Group",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79281633",
+        "url": "https://api.hh.ru/vacancies/79281633?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Saber Interactive",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80148942",
+        "url": "https://api.hh.ru/vacancies/80148942?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employer": "СкайДНС",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80338949",
+        "url": "https://api.hh.ru/vacancies/80338949?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": 100000,
+        "employer": "Компьютерная Академия Top",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80280986",
+        "url": "https://api.hh.ru/vacancies/80280986?host=hh.ru",
+        "salary_from": 200000,
+        "salary_to": 200000,
+        "employer": "Перспектива",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80185116",
+        "url": "https://api.hh.ru/vacancies/80185116?host=hh.ru",
+        "salary_from": 90000,
+        "salary_to": 130000,
+        "employer": "Экспасофт",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79514622",
+        "url": "https://api.hh.ru/vacancies/79514622?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": 150000,
+        "employer": "Генотек",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80332858",
+        "url": "https://api.hh.ru/vacancies/80332858?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "К Телеком,ООО",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80356267",
+        "url": "https://api.hh.ru/vacancies/80356267?host=hh.ru",
+        "salary_from": 90000,
+        "salary_to": 150000,
+        "employer": "Юг Руси",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80235817",
+        "url": "https://api.hh.ru/vacancies/80235817?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employer": "Корпорация Ли Вест",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80305013",
+        "url": "https://api.hh.ru/vacancies/80305013?host=hh.ru",
+        "salary_from": 230000,
+        "salary_to": 230000,
+        "employer": "Бристоль, сеть магазинов",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80361963",
+        "url": "https://api.hh.ru/vacancies/80361963?host=hh.ru",
+        "salary_from": 62400,
+        "salary_to": 187200,
+        "employer": "UzSOFT LLC",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79605888",
+        "url": "https://api.hh.ru/vacancies/79605888?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Студия Кефир",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "78838620",
+        "url": "https://api.hh.ru/vacancies/78838620?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "СБЕР",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "78665689",
+        "url": "https://api.hh.ru/vacancies/78665689?host=hh.ru",
+        "salary_from": 160000,
+        "salary_to": 180000,
+        "employer": "Enjoypro",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80344238",
+        "url": "https://api.hh.ru/vacancies/80344238?host=hh.ru",
+        "salary_from": 134000,
+        "salary_to": null,
+        "employer": "Телеком и Микроэлектроник Индастриз",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "72216524",
+        "url": "https://api.hh.ru/vacancies/72216524?host=hh.ru",
+        "salary_from": 300000,
+        "salary_to": 450000,
+        "employer": "Перфект Системс",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80282563",
+        "url": "https://api.hh.ru/vacancies/80282563?host=hh.ru",
+        "salary_from": 23400000,
+        "salary_to": 39000000,
+        "employer": "«DZHANDOSOV SOFT»",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80322494",
+        "url": "https://api.hh.ru/vacancies/80322494?host=hh.ru",
+        "salary_from": 180000,
+        "salary_to": 300000,
+        "employer": "Predicto",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79454993",
+        "url": "https://api.hh.ru/vacancies/79454993?host=hh.ru",
+        "salary_from": 110000,
+        "salary_to": 170000,
+        "employer": "Spectr",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80127347",
+        "url": "https://api.hh.ru/vacancies/80127347?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": null,
+        "employer": "DNS Технологии",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "71147348",
+        "url": "https://api.hh.ru/vacancies/71147348?host=hh.ru",
+        "salary_from": 300000,
+        "salary_to": 500000,
+        "employer": "Дубайт",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80265758",
+        "url": "https://api.hh.ru/vacancies/80265758?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "URSiP",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79382076",
+        "url": "https://api.hh.ru/vacancies/79382076?host=hh.ru",
+        "salary_from": 140000,
+        "salary_to": 250000,
+        "employer": "AERODISK",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80254946",
+        "url": "https://api.hh.ru/vacancies/80254946?host=hh.ru",
+        "salary_from": 120000,
+        "salary_to": null,
+        "employer": "НИИ МАСШТАБ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80271977",
+        "url": "https://api.hh.ru/vacancies/80271977?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Народный банк Казахстана",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79798262",
+        "url": "https://api.hh.ru/vacancies/79798262?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ProPeople Global",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79936952",
+        "url": "https://api.hh.ru/vacancies/79936952?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 80000,
+        "employer": "Новакабель",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80010994",
+        "url": "https://api.hh.ru/vacancies/80010994?host=hh.ru",
+        "salary_from": 150000,
+        "salary_to": 200000,
+        "employer": "7waysconsult",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79828667",
+        "url": "https://api.hh.ru/vacancies/79828667?host=hh.ru",
+        "salary_from": 150000,
+        "salary_to": 250000,
+        "employer": "Колл-Тулз",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80376635",
+        "url": "https://api.hh.ru/vacancies/80376635?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "IQnergy",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79365089",
+        "url": "https://api.hh.ru/vacancies/79365089?host=hh.ru",
+        "salary_from": 230000,
+        "salary_to": 300000,
+        "employer": "АйТиКвик",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79596972",
+        "url": "https://api.hh.ru/vacancies/79596972?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Студия Кефир",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80360554",
+        "url": "https://api.hh.ru/vacancies/80360554?host=hh.ru",
+        "salary_from": 62400,
+        "salary_to": 187200,
+        "employer": "TeamPRO Development",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79824456",
+        "url": "https://api.hh.ru/vacancies/79824456?host=hh.ru",
+        "salary_from": 300000,
+        "salary_to": 400000,
+        "employer": "Predicto",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "78661418",
+        "url": "https://api.hh.ru/vacancies/78661418?host=hh.ru",
+        "salary_from": 360000,
+        "salary_to": 480000,
+        "employer": "Вайт Код",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80279203",
+        "url": "https://api.hh.ru/vacancies/80279203?host=hh.ru",
+        "salary_from": 150000,
+        "salary_to": 200000,
+        "employer": "Тензор",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79436108",
+        "url": "https://api.hh.ru/vacancies/79436108?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 390000,
+        "employer": "Piepack.club",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80217484",
+        "url": "https://api.hh.ru/vacancies/80217484?host=hh.ru",
+        "salary_from": 150000,
+        "salary_to": 200000,
+        "employer": "Майгрин Маркет",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80317692",
+        "url": "https://api.hh.ru/vacancies/80317692?host=hh.ru",
+        "salary_from": 300000,
+        "salary_to": 400000,
+        "employer": "Predicto",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79248533",
+        "url": "https://api.hh.ru/vacancies/79248533?host=hh.ru",
+        "salary_from": 300000,
+        "salary_to": 400000,
+        "employer": "Бизнес-Азимут",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80376897",
+        "url": "https://api.hh.ru/vacancies/80376897?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "LG Electronics Inc.",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80277099",
+        "url": "https://api.hh.ru/vacancies/80277099?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Ростелеком Информационные Технологии",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79591930",
+        "url": "https://api.hh.ru/vacancies/79591930?host=hh.ru",
+        "salary_from": 70000,
+        "salary_to": null,
+        "employer": "ФНПЦ АО НПО МАРС",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80326968",
+        "url": "https://api.hh.ru/vacancies/80326968?host=hh.ru",
+        "salary_from": 250000,
+        "salary_to": 300000,
+        "employer": "BigDataDuck",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80298304",
+        "url": "https://api.hh.ru/vacancies/80298304?host=hh.ru",
+        "salary_from": 180000,
+        "salary_to": 300000,
+        "employer": "JetLend",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80326015",
+        "url": "https://api.hh.ru/vacancies/80326015?host=hh.ru",
+        "salary_from": 250000,
+        "salary_to": 400000,
+        "employer": "Predicto",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80191578",
+        "url": "https://api.hh.ru/vacancies/80191578?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Alif Tech",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79909048",
+        "url": "https://api.hh.ru/vacancies/79909048?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "СБЕР",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "77149775",
+        "url": "https://api.hh.ru/vacancies/77149775?host=hh.ru",
+        "salary_from": 170000,
+        "salary_to": 320000,
+        "employer": "АЙТИ.СПЕЙС",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "76086723",
+        "url": "https://api.hh.ru/vacancies/76086723?host=hh.ru",
+        "salary_from": 78000,
+        "salary_to": 156000,
+        "employer": "ГравиЛинк",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80222040",
+        "url": "https://api.hh.ru/vacancies/80222040?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "TeamLead",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80306317",
+        "url": "https://api.hh.ru/vacancies/80306317?host=hh.ru",
+        "salary_from": 250000,
+        "salary_to": null,
+        "employer": "Staffwell",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79550129",
+        "url": "https://api.hh.ru/vacancies/79550129?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ЭКОПСИ Консалтинг",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80241933",
+        "url": "https://api.hh.ru/vacancies/80241933?host=hh.ru",
+        "salary_from": 120000,
+        "salary_to": 250000,
+        "employer": "Автомакон",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79824429",
+        "url": "https://api.hh.ru/vacancies/79824429?host=hh.ru",
+        "salary_from": 230000,
+        "salary_to": null,
+        "employer": "Российское общество Знание",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "78897703",
+        "url": "https://api.hh.ru/vacancies/78897703?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employer": "Статус",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80028912",
+        "url": "https://api.hh.ru/vacancies/80028912?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": 80000,
+        "employer": "Щербин Алексей Сергеевич",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80050718",
+        "url": "https://api.hh.ru/vacancies/80050718?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": 140000,
+        "employer": "РА Дельта",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80306192",
+        "url": "https://api.hh.ru/vacancies/80306192?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Форкитех",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "78771412",
+        "url": "https://api.hh.ru/vacancies/78771412?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "ЗАЗЕКС",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "76347722",
+        "url": "https://api.hh.ru/vacancies/76347722?host=hh.ru",
+        "salary_from": 160000,
+        "salary_to": null,
+        "employer": "SberTech",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79121114",
+        "url": "https://api.hh.ru/vacancies/79121114?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Неофлекс",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80284997",
+        "url": "https://api.hh.ru/vacancies/80284997?host=hh.ru",
+        "salary_from": 120000,
+        "salary_to": 180000,
+        "employer": "Sibdev",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80321590",
+        "url": "https://api.hh.ru/vacancies/80321590?host=hh.ru",
+        "salary_from": 217750,
+        "salary_to": 326625,
+        "employer": "СБЕР",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79285897",
+        "url": "https://api.hh.ru/vacancies/79285897?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Атомик Софт",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79578743",
+        "url": "https://api.hh.ru/vacancies/79578743?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "АНО АЦГ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80198541",
+        "url": "https://api.hh.ru/vacancies/80198541?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Серяков Виктор Юрьевич",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80242347",
+        "url": "https://api.hh.ru/vacancies/80242347?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Тонар-опт",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80265145",
+        "url": "https://api.hh.ru/vacancies/80265145?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employer": "ТаймВэб",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79577718",
+        "url": "https://api.hh.ru/vacancies/79577718?host=hh.ru",
+        "salary_from": 250000,
+        "salary_to": 380000,
+        "employer": "Мамаева Ирина Анатольевна",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80229280",
+        "url": "https://api.hh.ru/vacancies/80229280?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Антереал",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79215601",
+        "url": "https://api.hh.ru/vacancies/79215601?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Ред Софт",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "78363305",
+        "url": "https://api.hh.ru/vacancies/78363305?host=hh.ru",
+        "salary_from": 150000,
+        "salary_to": 300000,
+        "employer": "Реверслаб",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80212250",
+        "url": "https://api.hh.ru/vacancies/80212250?host=hh.ru",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "employer": "ИТС",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79749300",
+        "url": "https://api.hh.ru/vacancies/79749300?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Saber Interactive",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79835988",
+        "url": "https://api.hh.ru/vacancies/79835988?host=hh.ru",
+        "salary_from": 150000,
+        "salary_to": 250000,
+        "employer": "Колл-Тулз",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "78155882",
+        "url": "https://api.hh.ru/vacancies/78155882?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "АТОЛ, группа компаний",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80240392",
+        "url": "https://api.hh.ru/vacancies/80240392?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "SlonW",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80244838",
+        "url": "https://api.hh.ru/vacancies/80244838?host=hh.ru",
+        "salary_from": 90000,
+        "salary_to": null,
+        "employer": "Новабиом",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80126392",
+        "url": "https://api.hh.ru/vacancies/80126392?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "Аптека25",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80207546",
+        "url": "https://api.hh.ru/vacancies/80207546?host=hh.ru",
+        "salary_from": null,
+        "salary_to": 250000,
+        "employer": "Интегрированные системы управления",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80226012",
+        "url": "https://api.hh.ru/vacancies/80226012?host=hh.ru",
+        "salary_from": 60000,
+        "salary_to": 100000,
+        "employer": "Цифровой элемент",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80201594",
+        "url": "https://api.hh.ru/vacancies/80201594?host=hh.ru",
+        "salary_from": 30000,
+        "salary_to": null,
+        "employer": "Малороссиянов Иван Александрович",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79901530",
+        "url": "https://api.hh.ru/vacancies/79901530?host=hh.ru",
+        "salary_from": 62400000,
+        "salary_to": null,
+        "employer": "Вайпоинг",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80193927",
+        "url": "https://api.hh.ru/vacancies/80193927?host=hh.ru",
+        "salary_from": 234000,
+        "salary_to": 507000,
+        "employer": "ТРТ",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80148892",
+        "url": "https://api.hh.ru/vacancies/80148892?host=hh.ru",
+        "salary_from": 350000,
+        "salary_to": 500000,
+        "employer": "Skillbox",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79743616",
+        "url": "https://api.hh.ru/vacancies/79743616?host=hh.ru",
+        "salary_from": 150000,
+        "salary_to": 180000,
+        "employer": "Фаст Софт",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80292556",
+        "url": "https://api.hh.ru/vacancies/80292556?host=hh.ru",
+        "salary_from": 31200000,
+        "salary_to": 54600000,
+        "employer": "IT Analytics",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79415326",
+        "url": "https://api.hh.ru/vacancies/79415326?host=hh.ru",
+        "salary_from": 234000,
+        "salary_to": 312000,
+        "employer": "Novakid Inc",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "79415327",
+        "url": "https://api.hh.ru/vacancies/79415327?host=hh.ru",
+        "salary_from": 234000,
+        "salary_to": 312000,
+        "employer": "Novakid Inc",
+        "api": "HeadHunter"
+    },
+    {
+        "id": "80285425",
+        "url": "https://api.hh.ru/vacancies/80285425?host=hh.ru",
+        "salary_from": null,
+        "salary_to": null,
+        "employer": "LAD labs Ltd",
+        "api": "HeadHunter"
+    }
+]
