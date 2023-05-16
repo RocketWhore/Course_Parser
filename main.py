@@ -7,18 +7,18 @@ def main():
     keyword = 'Python'
 
     hh = HeadHunter(keyword)
-    # sj = SuberJob(keyword)
+    sj = SuberJob(keyword)
     # print(hh.get_requests())
-    # for api in hh:
-    hh.get_vacancies()
-    vacancies_js.extend(hh.get_formated_vacancies())
-
+    for api in (hh, sj):
+        api.get_vacancies(pages_count=2)
+        vacancies_js.extend(api.get_formated_vacancies())
+    exit()
     connector = Connector(keyword=keyword, vacancies_json=vacancies_js)
-    while True:
-        vacancies = connector.select()
 
-        for vacancy in vacancies:
-            print(vacancy, end='\n\n')
+    vacancies = connector.select()
+
+    for vacancy in vacancies:
+        print(vacancy, end='\n\n')
 
 
 if __name__ == '__main__':
