@@ -12,7 +12,7 @@ def main():
     for api in (hh, sj):
         api.get_vacancies(pages_count=2)
         vacancies_js.extend(api.get_formated_vacancies())
-    exit()
+
     connector = Connector(keyword=keyword, vacancies_json=vacancies_js)
 
     vacancies = connector.select()

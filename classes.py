@@ -155,7 +155,7 @@ class SuberJob(Engine):
         response = requests.get(url=self.__url, headers=headers, params=self.__params)
         # if response.status_code != 200:
         #     raise ParsingError
-        return response.json()
+        return response.json()['objects']
 
     def get_formated_vacancies(self):
         '''Метод для форматирования вакансий'''
@@ -165,8 +165,8 @@ class SuberJob(Engine):
                 'id': vacancy['id'],
                 'title': vacancy['profession'],
                 'url': vacancy['link'],
-                'salary_from': self.get_salary(vacancy['payment_from'], vacancy['corrency']),
-                'salary_to': self.get_salary(vacancy['payment_to'], vacancy['corrency']),
+                'salary_from': self.get_salary(vacancy['payment_from'], vacancy['currency']),
+                'salary_to': self.get_salary(vacancy['payment_to'], vacancy['currency']),
                 'employer': vacancy['firm_name'],
                 'api': 'SuperJob'
             })
