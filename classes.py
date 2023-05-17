@@ -145,7 +145,7 @@ class SuberJob(Engine):
     def get_salary(salary, currency):
         '''Метод определения зарплаты вакансии'''
         formated_salary = None
-        if salary in salary != 0:
+        if salary != 0:
             formated_salary = salary if currency == 'rub' else salary * 78
         return formated_salary
 
@@ -191,5 +191,5 @@ class SuberJob(Engine):
 
 # hh = HeadHunter('Python')
 # pprint(hh)
-sj = SuberJob('Python')
-pprint(sj.get_requests())
+# sj = SuberJob('Python')
+# pprint(sj.get_requests())
