@@ -17,6 +17,8 @@ def main():
     while True:
         command = input(
             'v - Вывести список вакансий;\n'
+            'min - Отсортировать вакансии по минимальной зарплате;\n'
+            'max - Отсортровать вакансии по максимальной зарплатк;\n'
             'exit - Для выхода.\n'
 
         )
@@ -24,6 +26,10 @@ def main():
             break
         elif command.lower() == 'v':
             vacancies = connector.select()
+        elif command.lower() == 'min':
+            vacancies = connector.sorted_vacancies_by_salary_from()
+        elif command.lower() == 'max':
+            vacancies = connector.sorted_vacancies_by_salary_to()
 
         vacancies = connector.select()
 

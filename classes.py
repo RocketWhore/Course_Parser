@@ -24,11 +24,11 @@ class Vacancy:
         self.api = api
 
     def __gt__(self, other):
-        if not other.salary_min:
+        if not other.salary_from:
             return True
         elif not self.salary_from:
             return False
-        return self.salary_to >= other.salary_min
+        return self.salary_from >= other.salary_from
     def __str__(self):
         salary_from = f'От {self.salary_from}' if self.salary_from != None else ''
         salary_to = f'До {self.salary_to}' if self.salary_to != None else ''
@@ -54,6 +54,17 @@ class Connector:
                      for x in data]
         return vacancies
 
+    def sorted_vacancies_by_salary_from(self):
+        vacancies = self.select()
+        sorted_vacancies = sorted(vacancies, reverse=True)
+
+        return sorted_vacancies
+
+    def sorted_vacancies_by_salary_to(self):
+        vacancies = self.select()
+        sorted_vacancies = sorted(vacancies, key=lambda x: x.salary_to)
+
+        return sorted_vacancies
 
 class Engine(ABC):
 
