@@ -28,7 +28,7 @@ class Vacancy:
             return True
         elif not self.salary_from:
             return False
-
+        return self.salary_to >= other.salary_min
     def __str__(self):
         salary_from = f'От {self.salary_from}' if self.salary_from != None else ''
         salary_to = f'До {self.salary_to}' if self.salary_to != None else ''
@@ -132,7 +132,7 @@ class HeadHunter(Engine):
 
 class SuberJob(Engine):
     '''Класс для получения вакансий'''
-    def __init__(self, keyword, page=1):
+    def __init__(self, keyword, page=0):
         self.__url = 'https://api.superjob.ru/2.0/vacancies/'
         self.__params = {
             'keyword': keyword,

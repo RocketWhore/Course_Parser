@@ -14,11 +14,21 @@ def main():
         vacancies_js.extend(api.get_formated_vacancies())
 
     connector = Connector(keyword=keyword, vacancies_json=vacancies_js)
+    while True:
+        command = input(
+            'v - Вывести список вакансий;\n'
+            'exit - Для выхода.\n'
 
-    vacancies = connector.select()
+        )
+        if command.lower() == 'exit':
+            break
+        elif command.lower() == 'v':
+            vacancies = connector.select()
 
-    for vacancy in vacancies:
-        print(vacancy, end='\n\n')
+        vacancies = connector.select()
+
+        for vacancy in vacancies:
+            print(vacancy, end='\n\n')
 
 
 if __name__ == '__main__':
