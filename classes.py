@@ -62,9 +62,9 @@ class Connector:
 
     def sorted_vacancies_by_salary_to(self):
         vacancies = self.select()
-        sorted_vacancies = sorted(vacancies, key=lambda x: x.salary_to)
+        vacancies = sorted(vacancies, key=lambda x: x.salary_to if x.salary_to else 0)
 
-        return sorted_vacancies
+        return vacancies
 
 class Engine(ABC):
 
